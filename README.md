@@ -15,4 +15,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 
 
-<img width="960" height="391" alt="screenshot" src="https://github.com/user-attachments/assets/af40972e-9304-4bcf-bc36-ad997bad23d0" />
+<img width="960" height="391" alt="print png" src="https://github.com/user-attachments/assets/f5b7de5a-8e0b-4eee-8e8b-2e119da8b84b" />
